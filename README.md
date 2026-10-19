@@ -1,6 +1,6 @@
 # Komal Dangi portfolio
 
-Website: https://dangi1202komal.github.io/portfolio/
+Website: https://dangi1202komal.github.io/
 
 ## Files
 
